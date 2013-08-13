@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: sathiyaselvan_s
+Build-Jdk: 1.6.0_31
+Copyright: Awired Network
+Project-Creator: Awired Network
+Project-CreatorId: net.awired.js
+Project-Name: almond
+Project-Version: 0.1.4
+Project-Website: http://awired.net/parent-java/js/almond/
+
